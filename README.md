@@ -1,2 +1,2 @@
-# git-practice-lab
-git basic command practice
+# Git Practice Lab
+Hello from my first branch!
